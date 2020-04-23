@@ -3,6 +3,14 @@
 There can be one or more solutions for the problem or no solution may satisfy
 the constraint.
 
+## Code Setup
+
+Installation instructions can be found in [Install File](INSTALL.md).
+
+The setup is from CS244's congestion control contest but we will keep
+
+updating this according to our own needs.
+
 ## INPUT FILE
 
 Mahimahi takes as input a [trace file](trace_file) which represents the time-varying capacity of
